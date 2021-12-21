@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" preserve-order="true">
+	<listeners>
+		<listener class-name="com.ig.Listeners.TestListener" />
+		<!-- <listener class-name="com.app.Listeners.AnnotationTransformer" /> -->
+	</listeners>
+
+<suite-files>
+        <suite-file path="TC_001_LoginTest.xml" />
+        <suite-file path="TC_002_CheckValidationOnCreateAccount.xml" />
+   </suite-files>
+</suite> <!-- Suite -->

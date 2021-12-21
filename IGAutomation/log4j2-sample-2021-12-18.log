@@ -1,0 +1,29 @@
+[INFO ] 2021-12-18 21:24:25.042 [main] Log - I am in onStart method Test
+[INFO ] 2021-12-18 21:24:40.875 [main] Log - loginMethod test is starting.
+[INFO ] 2021-12-18 21:24:47.037 [main] Log - loginMethod test is succeed.
+[INFO ] 2021-12-18 21:24:47.635 [main] Log - loginMethod test is failed.
+[INFO ] 2021-12-18 21:24:48.817 [main] Log - I am in onFinish method Test
+[INFO ] 2021-12-18 21:36:20.123 [main] Log - I am in onStart method Test
+[INFO ] 2021-12-18 21:36:29.294 [main] Log - loginMethod test is starting.
+[INFO ] 2021-12-18 21:36:35.297 [main] Log - loginMethod test is succeed.
+[INFO ] 2021-12-18 21:36:35.987 [main] Log - I am in onFinish method Test
+[INFO ] 2021-12-18 21:36:36.407 [main] Log - I am in onStart method Test
+[INFO ] 2021-12-18 21:36:48.126 [main] Log - createAccountValidation test is starting.
+[INFO ] 2021-12-18 21:36:54.160 [main] Log - createAccountValidation test is succeed.
+[INFO ] 2021-12-18 21:36:54.783 [main] Log - I am in onFinish method Test
+[INFO ] 2021-12-18 21:39:28.172 [main] Log - I am in onStart method Test
+[INFO ] 2021-12-18 21:39:39.063 [main] Log - loginMethod test is starting.
+[INFO ] 2021-12-18 21:39:46.076 [main] Log - loginMethod test is succeed.
+[INFO ] 2021-12-18 21:39:46.990 [main] Log - I am in onFinish method Test
+[INFO ] 2021-12-18 21:39:47.582 [main] Log - I am in onStart method Test
+[INFO ] 2021-12-18 21:40:00.101 [main] Log - createAccountValidation test is starting.
+[INFO ] 2021-12-18 21:40:06.686 [main] Log - createAccountValidation test is succeed.
+[INFO ] 2021-12-18 21:40:07.596 [main] Log - I am in onFinish method Test
+[INFO ] 2021-12-18 21:41:37.918 [main] Log - I am in onStart method Test
+[INFO ] 2021-12-18 21:41:51.213 [main] Log - loginMethod test is starting.
+[INFO ] 2021-12-18 21:41:57.313 [main] Log - loginMethod test is succeed.
+[INFO ] 2021-12-18 21:41:58.437 [main] Log - I am in onFinish method Test
+[INFO ] 2021-12-18 21:41:59.185 [main] Log - I am in onStart method Test
+[INFO ] 2021-12-18 21:42:10.728 [main] Log - createAccountValidation test is starting.
+[INFO ] 2021-12-18 21:42:16.902 [main] Log - createAccountValidation test is failed.
+[INFO ] 2021-12-18 21:42:18.119 [main] Log - I am in onFinish method Test

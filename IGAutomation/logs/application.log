@@ -1,0 +1,8 @@
+[INFO ] 2021-12-21 20:41:09.846 [main] Log - I am in onStart method Test
+[INFO ] 2021-12-21 20:41:22.554 [main] Log - loginMethod test is starting.
+[INFO ] 2021-12-21 20:41:28.300 [main] Log - loginMethod test is succeed.
+[INFO ] 2021-12-21 20:41:29.241 [main] Log - I am in onFinish method Test
+[INFO ] 2021-12-21 20:41:29.827 [main] Log - I am in onStart method Test
+[INFO ] 2021-12-21 20:41:40.450 [main] Log - createAccountValidation test is starting.
+[INFO ] 2021-12-21 20:41:47.619 [main] Log - createAccountValidation test is failed.
+[INFO ] 2021-12-21 20:41:48.762 [main] Log - I am in onFinish method Test
